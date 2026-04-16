@@ -4,7 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
 #eclipse-temurin:21-jre-jammy
-
-nacos-server:v3.0.3
+nacos/nacos-server:v3.0.3
