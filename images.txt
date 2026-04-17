@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #eclipse-temurin:21-jre-jammy
 #nacos/nacos-server:v3.0.3
-apache/seata-server:2.5.0
+#apache/seata-server:2.5.0
+apache/seata-server:2.3.0
