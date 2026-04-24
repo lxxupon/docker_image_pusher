@@ -9,4 +9,5 @@
 #apache/seata-server:2.5.0
 #apache/seata-server:2.3.0
 #bladex/sentinel-dashboard:1.8.9
-redis:7.4.7
+#redis:7.4.7
+postgres:16.2
